@@ -1,3 +1,6 @@
+#Netlify Domain <br>
+https://prismatic-tapioca-bb45c2.netlify.app/ <br>
+
 This is a simple UI-UX design created in Figma and code in HTML and CSS as it is
 
 This design have full responsiveness in all screen
